@@ -1,1 +1,1 @@
-# paintijs
+# paint JS🎨
